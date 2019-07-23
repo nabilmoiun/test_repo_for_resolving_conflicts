@@ -1,7 +1,5 @@
-Why has not it created a conflict
-This is another line to make it work again 
+Why has not it created a conflict 
 This line is to create the conflict with the master branch 
-This is the first file 
 Practice makes a man perfect
 I don't know what is happening here ?
 This is a shit 
