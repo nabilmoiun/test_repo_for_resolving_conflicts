@@ -1,2 +1,2 @@
 This is the first file 
-Practice makes a man perfect 
+This line is to create the conflict with the master branch 
