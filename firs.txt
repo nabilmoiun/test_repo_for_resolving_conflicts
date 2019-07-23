@@ -1,2 +1,2 @@
-This is the first file 
+Why has not it created a conflict
 This line is to create the conflict with the master branch 
