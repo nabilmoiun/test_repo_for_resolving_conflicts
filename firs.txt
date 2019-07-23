@@ -1,2 +1,3 @@
 Why has not it created a conflict
+This is another line to make it work again 
 This line is to create the conflict with the master branch 
